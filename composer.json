@@ -1,6 +1,5 @@
 {
   "require": {
-    "spekulatius/phpscraper": "^1.0",
     "symfony/dom-crawler": "^6.2"
   }
 }
