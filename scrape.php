@@ -1,17 +1,5 @@
 <?php
 
-// require __DIR__ . '/vendor/autoload.php';
-//
-// $url = $_POST["url"];
-// if (empty($url)) {
-//     echo "Yawn. You sent an empty url.";
-// }
-// $web = new \Spekulatius\PHPScraper\PHPScraper;
-// $web->go($url);
-//
-// $articles = $web->filter('//article'));
-// $articles
-
 require __DIR__ . '/vendor/autoload.php';
 use Symfony\Component\DomCrawler\Crawler;
 
