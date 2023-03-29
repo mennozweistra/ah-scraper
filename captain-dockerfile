@@ -8,7 +8,7 @@ RUN apk update && \
     zip \
     unzip
 
-ENV WEB_DOCUMENT_ROOT /app/public
+ENV WEB_DOCUMENT_ROOT /
 COPY ./ /app
 RUN chown -R application:application /app
 RUN composer install -d /app
