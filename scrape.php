@@ -3,6 +3,7 @@
 require __DIR__ . '/vendor/autoload.php';
 use Symfony\Component\DomCrawler\Crawler;
 
+
 if (php_sapi_name() === 'cli') {
     // Called from commandline
     $url = "main.html";
@@ -56,7 +57,7 @@ foreach($categories as $url) {
     }
 }
 
-$searchStrings[] = [
+$searchStrings = [
     'Courgette', 'Paprika'
 ];
 
@@ -72,6 +73,8 @@ foreach ($articles as $article) {
 }
 echo "</pre>";
 echo "<br><hr><br>";
+echo "<pre>";
+
 foreach ($articles as $article) {
     echo $article['title'] . PHP_EOL;
     echo $article['price'] . PHP_EOL;
