@@ -56,11 +56,25 @@ foreach($categories as $url) {
     }
 }
 
+$searchStrings[] = [
+    'Courgette', 'Paprika'
+];
+
 echo "<pre>";
+foreach ($articles as $article) {
+    foreach ($searchStrings as $needle) {
+        if (str_contains($article['title'], $needle)) {
+            echo $article['title'] . PHP_EOL;
+            echo $article['price'] . PHP_EOL;
+            echo PHP_EOL;
+        }
+    }
+}
+echo "</pre>";
+echo "<br><hr><br>";
 foreach ($articles as $article) {
     echo $article['title'] . PHP_EOL;
     echo $article['price'] . PHP_EOL;
     echo PHP_EOL;
 }
 echo "</pre>";
-var_dump($articles);
