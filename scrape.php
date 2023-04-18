@@ -57,7 +57,6 @@ if (!file_exists($cachefileName)) {
         }   catch (Exception $e) {
             // echo 'Caught exception: ',  $e->getMessage(), PHP_EOL;
         }
-        break;
     }
 
     file_put_contents($cachefileName, json_encode($articles, JSON_PRETTY_PRINT));
