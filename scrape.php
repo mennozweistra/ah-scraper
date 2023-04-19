@@ -67,13 +67,14 @@ if (!file_exists($cachefileName)) {
 }
 
 $searchStrings = [
-    'Courgette', 'Paprika'
+    'Courgette', 'Paprika', 'Mandarijnen', 'Druiven', 'Tomat', 'Tomaat', 'Pizza', 'Schenkstroop',
+    'Salade', 'Gehakt', 'Spekreepjes', 'Kipfilet', 'Zalmfilet', 'Erwtensoep'
 ];
 
 echo "<pre>";
 foreach ($articles as $article) {
     foreach ($searchStrings as $needle) {
-        if (str_contains($article['title'], $needle)) {
+        if (str_contains(strtolower($article['title']), strtolower($needle))) {
             echo $article['title'] . PHP_EOL;
             echo $article['price'] . PHP_EOL;
             echo PHP_EOL;
