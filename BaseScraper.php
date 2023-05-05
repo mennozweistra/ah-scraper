@@ -14,13 +14,15 @@ abstract class BaseScraper {
     // Get the data that this scraper collected
     // The data will be returned from cache, unless the data is not cached yet
     // In that case the scraper will run and fetch the data from the web
-    public function getData() {
-        // If we have the data in memory, return it
-        if ($this->cacheData) return $this->cacheData;
-        // If we have the data cached in the cacheFile, load and return it
-        if (file_exists($this->cacheFile)) {
-            $this->cacheData = json_decode(file_get_contents($this->cacheFile), true);
-            return $this->cacheData;
+    public function getData($ignoreCache = false) {
+        if (!$ignoreCache) {
+            // If we have the data in memory, return it
+            if ($this->cacheData) return $this->cacheData;
+            // If we have the data cached in the cacheFile, load and return it
+            if (file_exists($this->cacheFile)) {
+                $this->cacheData = json_decode(file_get_contents($this->cacheFile), true);
+                return $this->cacheData;
+            }
         }
         // We don't have a valid cache, scrape the data and return the cache
         $this->cacheData = $this->scrape();

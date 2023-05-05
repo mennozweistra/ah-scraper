@@ -12,7 +12,7 @@
         "price": "1.49"
     },
     {
-        "title": "Knorr Veggie wraps bieten",
+        "title": "Knorr Veggie wraps 35% wortel",
         "price": "3.09"
     },
     {
@@ -20,7 +20,7 @@
         "price": "20.30"
     },
     {
-        "title": "Knorr Veggie wraps 35% wortel",
+        "title": "Knorr Veggie wraps bieten",
         "price": "3.09"
     },
     {
@@ -45,11 +45,11 @@
     },
     {
         "title": "AH Paprika mix",
-        "price": "2.44"
+        "price": "2.50"
     },
     {
         "title": "AH Broccoli",
-        "price": "1.44"
+        "price": "1.55"
     },
     {
         "title": "AH Paprika rood",
@@ -65,7 +65,7 @@
     },
     {
         "title": "AH Prei",
-        "price": "0.62"
+        "price": "0.68"
     },
     {
         "title": "Chiquita bananenpannenkoekjes pakket",
@@ -81,19 +81,19 @@
     },
     {
         "title": "AH Cherrytomaten",
-        "price": "1.24"
+        "price": "1.30"
     },
     {
         "title": "AH Snoepgroente tomaat",
         "price": "2.99"
     },
     {
-        "title": "AH Avocado",
-        "price": "1.39"
-    },
-    {
         "title": "AH Mango",
         "price": "1.75"
+    },
+    {
+        "title": "AH Avocado",
+        "price": "1.39"
     },
     {
         "title": "AH Biologisch Fairtrade bananen",
@@ -128,12 +128,12 @@
         "price": "2.19"
     },
     {
-        "title": "AH Aubergine",
-        "price": "1.04"
-    },
-    {
         "title": "AH Bosui",
         "price": "0.78"
+    },
+    {
+        "title": "AH Aubergine",
+        "price": "1.04"
     },
     {
         "title": "Pink Lady Schaal",
@@ -180,12 +180,12 @@
         "price": "1.35"
     },
     {
-        "title": "AH Verse spaghetti all'uovo",
-        "price": "2.49"
-    },
-    {
         "title": "AH Italiaanse lasagne verspakket",
         "price": "5.49"
+    },
+    {
+        "title": "AH Verse spaghetti all'uovo",
+        "price": "2.49"
     },
     {
         "title": "AH Tomatensoep verspakket",
@@ -228,16 +228,16 @@
         "price": "1.99"
     },
     {
-        "title": "AH Bapao kipsate",
-        "price": "1.19"
-    },
-    {
         "title": "AH Poffertjes naturel",
         "price": "1.79"
     },
     {
         "title": "Dr. Oetker Ristorante pizza mozzarella",
         "price": "2.59"
+    },
+    {
+        "title": "AH Bapao kipsate",
+        "price": "1.19"
     },
     {
         "title": "Van Gilse Schenkstroop",
@@ -252,16 +252,16 @@
         "price": "3.99"
     },
     {
+        "title": "AH Kip kerrie verspakket",
+        "price": "10.82"
+    },
+    {
         "title": "Tante Fanny Vers flammkuchendeeg",
         "price": "1.99"
     },
     {
         "title": "AH Aardappelgratin naturel",
         "price": "2.35"
-    },
-    {
-        "title": "AH Kip kerrie verspakket",
-        "price": "10.82"
     },
     {
         "title": "AH Lasagne all uovo",
@@ -272,8 +272,8 @@
         "price": "3.89"
     },
     {
-        "title": "Dr. Oetker Ristorante pizza margherita",
-        "price": "3.79"
+        "title": "AH Salade erbij Caesar mix",
+        "price": "3.99"
     },
     {
         "title": "AH Mini worstenbroodjes",
@@ -284,8 +284,8 @@
         "price": "3.89"
     },
     {
-        "title": "AH Salade erbij Caesar mix",
-        "price": "3.99"
+        "title": "Dr. Oetker Ristorante pizza margherita",
+        "price": "3.79"
     },
     {
         "title": "AH Rundergehakt",
@@ -296,20 +296,20 @@
         "price": "4.15"
     },
     {
-        "title": "AH Prei met krieltjes & vegan schnitzel",
-        "price": "9.41"
-    },
-    {
         "title": "AH Gerookte spekreepjes",
         "price": "4.59"
     },
     {
-        "title": "AH Scharrel kipfiletblokjes",
-        "price": "4.75"
+        "title": "AH Prei met krieltjes & vegan schnitzel",
+        "price": "9.53"
     },
     {
         "title": "Meester & Zn. Gerookte spekreepjes",
         "price": "3.19"
+    },
+    {
+        "title": "AH Scharrel kipfiletblokjes",
+        "price": "4.75"
     },
     {
         "title": "AH Scharrel kipfilet 2 stuks",
@@ -356,12 +356,12 @@
         "price": "4.99"
     },
     {
-        "title": "AH Rundersoepballetjes",
-        "price": "2.99"
-    },
-    {
         "title": "AH Half-om-half gehakt",
         "price": "2.59"
+    },
+    {
+        "title": "AH Rundersoepballetjes",
+        "price": "2.99"
     },
     {
         "title": "AH Greenfields Beefburger naturel",
@@ -400,12 +400,12 @@
         "price": "3.09"
     },
     {
-        "title": "AH Scharrel kipsateschnitzel 2 stuks",
-        "price": "3.19"
-    },
-    {
         "title": "Unox Gelderse rookworst",
         "price": "2.99"
+    },
+    {
+        "title": "AH Scharrel kipsateschnitzel 2 stuks",
+        "price": "3.19"
     },
     {
         "title": "AH Mager spekblokjes",
@@ -424,12 +424,12 @@
         "price": "2.39"
     },
     {
-        "title": "Meester & Zn. Hamblokjes",
-        "price": "1.91"
+        "title": "AH Biologisch Spekreepjes",
+        "price": "4.79"
     },
     {
-        "title": "AH Biologisch Vegan tofu naturel",
-        "price": "1.49"
+        "title": "Meester & Zn. Hamblokjes",
+        "price": "1.91"
     },
     {
         "title": "John West Vegan visvrije tonijn tomaat",
@@ -504,12 +504,12 @@
         "price": "0.75"
     },
     {
-        "title": "AH Salami",
-        "price": "1.69"
-    },
-    {
         "title": "AH Yorkham",
         "price": "3.29"
+    },
+    {
+        "title": "AH Salami",
+        "price": "1.69"
     },
     {
         "title": "De Zaanse Hoeve Mild 30+ geraspt",
@@ -560,12 +560,12 @@
         "price": "2.35"
     },
     {
-        "title": "AH Scharrel gebraden kipfilet",
-        "price": "3.53"
-    },
-    {
         "title": "ERU Goudkuipje naturel",
         "price": "2.59"
+    },
+    {
+        "title": "AH Scharrel gebraden kipfilet",
+        "price": "3.53"
     },
     {
         "title": "AH Goudse oud 48+ plakken",
@@ -596,8 +596,8 @@
         "price": "3.66"
     },
     {
-        "title": "AH Gerookte kipfilet",
-        "price": "2.99"
+        "title": "AH Biologisch Kipfilet",
+        "price": "3.59"
     },
     {
         "title": "De Zaanse Hoeve Halfvolle Melk",
@@ -832,12 +832,12 @@
         "price": "2.79"
     },
     {
-        "title": "LU Mini crackers olijfolie & oregano",
-        "price": "1.79"
-    },
-    {
         "title": "AH Extra lang lekker bollen volkoren",
         "price": "1.59"
+    },
+    {
+        "title": "LU Mini crackers olijfolie & oregano",
+        "price": "1.79"
     },
     {
         "title": "AH Bruin heel",
@@ -884,12 +884,12 @@
         "price": "1.25"
     },
     {
-        "title": "LU Mini crackers naturel",
-        "price": "1.69"
-    },
-    {
         "title": "AH Extra lang lekker tijger volkoren heel",
         "price": "1.55"
+    },
+    {
+        "title": "LU Mini crackers naturel",
+        "price": "1.69"
     },
     {
         "title": "AH Excellent Feeststol",
@@ -900,8 +900,8 @@
         "price": "2.89"
     },
     {
-        "title": "AH Nederlands rond volkoren heel",
-        "price": "2.09"
+        "title": "AH Hamburgerbroodjes",
+        "price": "1.29"
     },
     {
         "title": "AH Scharrel kipfilet",
@@ -972,16 +972,16 @@
         "price": "0.49"
     },
     {
+        "title": "AH Yorkham",
+        "price": "3.29"
+    },
+    {
         "title": "AH Biologisch Maiswafels met zeezout rond",
         "price": "0.79"
     },
     {
         "title": "AH Salami",
         "price": "1.69"
-    },
-    {
-        "title": "AH Yorkham",
-        "price": "3.29"
     },
     {
         "title": "AH Schouderham",
@@ -996,10 +996,6 @@
         "price": "1.39"
     },
     {
-        "title": "Wasa Volkoren",
-        "price": "2.09"
-    },
-    {
         "title": "AH Filet americain naturel",
         "price": "1.69"
     },
@@ -1012,12 +1008,16 @@
         "price": "3.29"
     },
     {
-        "title": "Bolletje Volkoren beschuit",
-        "price": "1.35"
+        "title": "Wasa Volkoren",
+        "price": "2.09"
     },
     {
         "title": "Garlan Verse roomkaas met kruiden",
         "price": "1.09"
+    },
+    {
+        "title": "Bolletje Volkoren beschuit",
+        "price": "1.35"
     },
     {
         "title": "AH Smeerkaas 20+ naturel",
@@ -1028,12 +1028,12 @@
         "price": "1.79"
     },
     {
-        "title": "AH Rinse appelstroop",
-        "price": "0.99"
-    },
-    {
         "title": "AH Cervelaat",
         "price": "1.99"
+    },
+    {
+        "title": "AH Rinse appelstroop",
+        "price": "0.99"
     },
     {
         "title": "Calv\u00e9 Pindakaas pot",
@@ -1068,12 +1068,12 @@
         "price": "2.35"
     },
     {
-        "title": "AH Scharrel gebraden kipfilet",
-        "price": "3.53"
-    },
-    {
         "title": "ERU Goudkuipje naturel",
         "price": "2.59"
+    },
+    {
+        "title": "AH Scharrel gebraden kipfilet",
+        "price": "3.53"
     },
     {
         "title": "Chiquita bananenbrood pakket",
@@ -1088,16 +1088,16 @@
         "price": "1.99"
     },
     {
-        "title": "Lay's Chips naturel",
-        "price": "10.99"
+        "title": "Lotus Biscoff speculoos koek",
+        "price": "1.69"
     },
     {
         "title": "Lay's Chips naturel",
         "price": "1.99"
     },
     {
-        "title": "Lotus Biscoff speculoos koek",
-        "price": "1.69"
+        "title": "Lay's Chips paprika",
+        "price": "10.99"
     },
     {
         "title": "AH Ribbelchips naturel",
@@ -1108,12 +1108,12 @@
         "price": "2.69"
     },
     {
-        "title": "LU Mini crackers olijfolie & oregano",
-        "price": "1.79"
-    },
-    {
         "title": "AH Roomboter stroopwafels",
         "price": "2.44"
+    },
+    {
+        "title": "LU Mini crackers olijfolie & oregano",
+        "price": "1.79"
     },
     {
         "title": "Lay's Bugles nacho cheese",
@@ -1148,12 +1148,12 @@
         "price": "1.69"
     },
     {
-        "title": "Lay's Oven baked roasted paprika",
-        "price": "2.29"
-    },
-    {
         "title": "AH Ribbelchips paprika",
         "price": "1.39"
+    },
+    {
+        "title": "Lay's Oven baked roasted paprika",
+        "price": "2.29"
     },
     {
         "title": "LU Bastogne orginal",
@@ -1184,6 +1184,10 @@
         "price": "2.55"
     },
     {
+        "title": "Snelle Jelle Kruidkoek naturel 5-pack",
+        "price": "2.69"
+    },
+    {
         "title": "AH Tortilla chips naturel",
         "price": "0.86"
     },
@@ -1192,32 +1196,28 @@
         "price": "2.35"
     },
     {
-        "title": "Snelle Jelle Kruidkoek naturel 5-pack",
-        "price": "2.69"
+        "title": "AH Ah ongebrande walnoten",
+        "price": "2.89"
     },
     {
         "title": "Lay's Sensations Thai sweet chilli",
         "price": "2.35"
     },
     {
-        "title": "AH Ah ongebrande walnoten",
-        "price": "2.89"
+        "title": "AH Ontbijtkoek gesneden",
+        "price": "1.46"
+    },
+    {
+        "title": "Lay's Wokkels paprika",
+        "price": "2.09"
     },
     {
         "title": "Lay's Oven baked naturel flavour",
         "price": "2.29"
     },
     {
-        "title": "AH Ontbijtkoek gesneden",
-        "price": "1.46"
-    },
-    {
         "title": "AH Roomboter kano's",
         "price": "1.85"
-    },
-    {
-        "title": "AH Rozijnen zongedroogd",
-        "price": "1.95"
     },
     {
         "title": "Venco Schoolkrijt",
@@ -1256,8 +1256,8 @@
         "price": "0"
     },
     {
-        "title": "Lay's Wokkels paprika",
-        "price": "2.09"
+        "title": "AH Rozijnen zongedroogd",
+        "price": "1.95"
     },
     {
         "title": "AH Bakkers speculaas",
@@ -1277,7 +1277,7 @@
     },
     {
         "title": "AH Cherrytomaten",
-        "price": "1.24"
+        "price": "1.30"
     },
     {
         "title": "AH Snoepgroente tomaat",
@@ -1300,12 +1300,12 @@
         "price": "1.59"
     },
     {
-        "title": "AH Snoepgroente paprikamix",
-        "price": "1.99"
-    },
-    {
         "title": "AH Rijstwafels naturel",
         "price": "0.69"
+    },
+    {
+        "title": "AH Snoepgroente paprikamix",
+        "price": "1.99"
     },
     {
         "title": "AH Biologisch Maiswafels met zeezout rond",
@@ -1332,12 +1332,12 @@
         "price": "1.09"
     },
     {
-        "title": "AH Snoepgroente tomaat",
-        "price": "5.49"
-    },
-    {
         "title": "LU Mini crackers naturel",
         "price": "1.69"
+    },
+    {
+        "title": "AH Snoepgroente tomaat",
+        "price": "5.49"
     },
     {
         "title": "Zonnatura Ma\u00efswafels",
@@ -1352,28 +1352,24 @@
         "price": "0.89"
     },
     {
-        "title": "Unox Good noodles kip",
-        "price": "0.79"
+        "title": "Snelle Jelle Kruidkoek naturel 5-pack",
+        "price": "2.69"
     },
     {
-        "title": "AH Bapao kip",
-        "price": "1.19"
+        "title": "Unox Good noodles kip",
+        "price": "0.79"
     },
     {
         "title": "Liga Evergreen krenten",
         "price": "2.35"
     },
     {
-        "title": "Snelle Jelle Kruidkoek naturel 5-pack",
-        "price": "2.69"
+        "title": "AH Bapao kip",
+        "price": "1.19"
     },
     {
         "title": "AH Ontbijtkoek gesneden",
         "price": "1.46"
-    },
-    {
-        "title": "AH Bapao rundvlees",
-        "price": "1.19"
     },
     {
         "title": "AH Snoepgroente wortel",
@@ -1382,6 +1378,10 @@
     {
         "title": "Liga Cracotte volkoren crackers",
         "price": "2.39"
+    },
+    {
+        "title": "AH Bapao rundvlees",
+        "price": "1.19"
     },
     {
         "title": "AH Knackebrod Volkoren",
@@ -1420,24 +1420,24 @@
         "price": "7.56"
     },
     {
-        "title": "Coca-Cola Zero sugar tray",
-        "price": "15.39"
+        "title": "Coca-Cola Regular tray",
+        "price": "16.49"
     },
     {
         "title": "Coca-Cola Zero sugar",
         "price": "2.49"
     },
     {
-        "title": "Coca-Cola Regular tray",
-        "price": "16.49"
+        "title": "Coca-Cola Zero sugar tray",
+        "price": "15.39"
     },
     {
         "title": "Coca-Cola Zero sugar",
         "price": "1.99"
     },
     {
-        "title": "Coca-Cola Light tray",
-        "price": "16.49"
+        "title": "Coca-Cola Zero tray",
+        "price": "46.17"
     },
     {
         "title": "AH Ice tea refreshing green tea",
@@ -1448,20 +1448,20 @@
         "price": "2.59"
     },
     {
-        "title": "Coca-Cola Regular",
-        "price": "1.99"
-    },
-    {
         "title": "AH Drinkyoghurt framboos",
         "price": "1.29"
     },
     {
-        "title": "AH Appelsap",
-        "price": "1.49"
+        "title": "Coca-Cola Regular",
+        "price": "2.49"
     },
     {
         "title": "Coca-Cola Regular",
-        "price": "2.49"
+        "price": "1.99"
+    },
+    {
+        "title": "AH Appelsap",
+        "price": "1.49"
     },
     {
         "title": "Optimel Drinkyoghurt framboos",
@@ -1492,10 +1492,6 @@
         "price": "1.99"
     },
     {
-        "title": "Coca-Cola Zero 8-pack",
-        "price": "5.39"
-    },
-    {
         "title": "Douwe Egberts Aroma rood snelfiltermaling",
         "price": "7.49"
     },
@@ -1504,12 +1500,12 @@
         "price": "2.49"
     },
     {
-        "title": "AH Bruisend mineraalwater citroen",
-        "price": "0.67"
+        "title": "Coca-Cola Zero 8-pack",
+        "price": "5.39"
     },
     {
-        "title": "AH Drinkyoghurt aardbei kers",
-        "price": "1.29"
+        "title": "AH Bruisend mineraalwater citroen",
+        "price": "0.67"
     },
     {
         "title": "AH Ginger passion",
@@ -1520,28 +1516,32 @@
         "price": "3.29"
     },
     {
-        "title": "Lipton Ice tea sparkling original",
-        "price": "2.69"
+        "title": "Fanta Orange no sugar",
+        "price": "2.29"
+    },
+    {
+        "title": "AH Drinkyoghurt aardbei kers",
+        "price": "1.29"
     },
     {
         "title": "Lipton Ice tea green",
         "price": "2.49"
     },
     {
-        "title": "Fanta Orange no sugar",
-        "price": "2.29"
-    },
-    {
         "title": "Coca-Cola en Fanta No Sugar Multipack 1,5L",
         "price": "9.56"
+    },
+    {
+        "title": "Fanta Orange",
+        "price": "2.29"
     },
     {
         "title": "AH Drinkyoghurt passievrucht mango",
         "price": "1.29"
     },
     {
-        "title": "Fanta Orange",
-        "price": "2.29"
+        "title": "Lipton Ice tea sparkling original",
+        "price": "2.69"
     },
     {
         "title": "Fuze Tea Black Ice Tea Peach Hibiscus",
@@ -1608,12 +1608,12 @@
         "price": "5.99"
     },
     {
-        "title": "Sol y Nieve Rueda verdejo-viura",
-        "price": "5.29"
-    },
-    {
         "title": "Sarmentino Pinot grigio",
         "price": "3.69"
+    },
+    {
+        "title": "Sol y Nieve Rueda verdejo-viura",
+        "price": "5.29"
     },
     {
         "title": "La Palma Chardonnay",
@@ -1668,12 +1668,12 @@
         "price": "3.49"
     },
     {
-        "title": "Fantini Puglia rosso",
-        "price": "5.99"
-    },
-    {
         "title": "Cave de Beblenheim Pinot blanc",
         "price": "5.79"
+    },
+    {
+        "title": "Fantini Puglia rosso",
+        "price": "5.99"
     },
     {
         "title": "19 Crimes Chardonnay",
@@ -1684,16 +1684,16 @@
         "price": "6.99"
     },
     {
-        "title": "Codorn\u00edu Clasico cava brut",
-        "price": "7.99"
-    },
-    {
         "title": "Lindeman's South Africa chardonnay viognier",
         "price": "5.99"
     },
     {
         "title": "Sobreiro Ruby port",
         "price": "4.99"
+    },
+    {
+        "title": "Codorn\u00edu Clasico cava brut",
+        "price": "7.99"
     },
     {
         "title": "Riporta Primitivo",
@@ -1704,20 +1704,20 @@
         "price": "6.99"
     },
     {
-        "title": "Liebfraumilch Qualit\u00e4tswein",
-        "price": "2.99"
-    },
-    {
         "title": "Slurp! Ros\u00e9",
         "price": "4.99"
+    },
+    {
+        "title": "Liebfraumilch Qualit\u00e4tswein",
+        "price": "2.99"
     },
     {
         "title": "Lindeman's Bin 95 sauvignon blanc",
         "price": "6.99"
     },
     {
-        "title": "Frontera Sauvignon blanc-Pedro Ximenez",
-        "price": "4.99"
+        "title": "AH Zuid- Afrika huiswijn vol en droog",
+        "price": "4.49"
     },
     {
         "title": "Mount Vernon Sauvignon Blanc",
@@ -1764,16 +1764,16 @@
         "price": "5.99"
     },
     {
-        "title": "Texels Speciaalbier proef pakket",
-        "price": "9.35"
+        "title": "Hertog Jan Natuurzuiver bier 6-pack",
+        "price": "6.49"
     },
     {
         "title": "La Trappe Trappist puur 4-pack",
         "price": "6.49"
     },
     {
-        "title": "Hertog Jan Natuurzuiver bier 6-pack",
-        "price": "6.49"
+        "title": "Texels Speciaalbier proef pakket",
+        "price": "9.35"
     },
     {
         "title": "Heineken Premium pilsener 0.0 draaidop 6-pack",
@@ -1788,12 +1788,12 @@
         "price": "17.98"
     },
     {
-        "title": "Amstel Radler 0.0 citroen 6-pack",
-        "price": "4.99"
-    },
-    {
         "title": "Heineken Premium pilsener 6-pack",
         "price": "6.65"
+    },
+    {
+        "title": "Amstel Radler 0.0 citroen 6-pack",
+        "price": "4.99"
     },
     {
         "title": "Leffe Blond abdijbier 6-pack",
@@ -1816,12 +1816,12 @@
         "price": "1.99"
     },
     {
-        "title": "Veltins Pilsener",
-        "price": "0.95"
-    },
-    {
         "title": "Brouwers Premium bier 6-pack",
         "price": "3.19"
+    },
+    {
+        "title": "Veltins Pilsener",
+        "price": "0.95"
     },
     {
         "title": "Hertog Jan 0.0 Alcoholvrij bier 6-pack",
@@ -1840,24 +1840,24 @@
         "price": "2.05"
     },
     {
-        "title": "Peroni Nastro azzurro 0.0 4-pack",
-        "price": "3.49"
-    },
-    {
         "title": "Kasteelbier Bruin",
         "price": "1.69"
+    },
+    {
+        "title": "Peroni Nastro azzurro 0.0 4-pack",
+        "price": "3.49"
     },
     {
         "title": "Affligem Blond 6-pack",
         "price": "7.99"
     },
     {
-        "title": "Amstel Radler 0.0 citroen 6-pack",
-        "price": "4.89"
-    },
-    {
         "title": "Jopen Mooie Nel IPA",
         "price": "2.69"
+    },
+    {
+        "title": "Amstel Radler 0.0 citroen 6-pack",
+        "price": "4.89"
     },
     {
         "title": "Paulaner Hefe weissbier",
@@ -1896,12 +1896,16 @@
         "price": "20.30"
     },
     {
-        "title": "Conimex Rijstnoedels 5mm",
-        "price": "2.95"
+        "title": "Maza Hoemoes",
+        "price": "1.99"
     },
     {
         "title": "AH Tomatenpuree 2x",
         "price": "0.98"
+    },
+    {
+        "title": "AH Kokosmelk",
+        "price": "0.99"
     },
     {
         "title": "AH Tomatenblokjes gesneden 2x",
@@ -1920,16 +1924,12 @@
         "price": "0.59"
     },
     {
-        "title": "AH Kokosmelk",
-        "price": "0.99"
+        "title": "AH Tortilla wraps volkoren medium",
+        "price": "1.19"
     },
     {
         "title": "Conimex Kroepoek Naturel",
         "price": "1.55"
-    },
-    {
-        "title": "AH Tortilla wraps volkoren medium",
-        "price": "1.19"
     },
     {
         "title": "AH Kristalsuiker",
@@ -1944,28 +1944,24 @@
         "price": "0.99"
     },
     {
-        "title": "AH Tomaten gezeefd passata 2x",
-        "price": "1.78"
-    },
-    {
         "title": "AH Pizzadeeg tomatensaus",
         "price": "2.19"
+    },
+    {
+        "title": "AH Tomaten gezeefd passata 2x",
+        "price": "1.78"
     },
     {
         "title": "AH Tarwe bloem",
         "price": "0.99"
     },
     {
-        "title": "AH Tortilla chips naturel",
-        "price": "0.86"
-    },
-    {
         "title": "Unox Good noodles kip",
         "price": "0.79"
     },
     {
-        "title": "Maza Hoemoes",
-        "price": "1.99"
+        "title": "AH Tortilla chips naturel",
+        "price": "0.86"
     },
     {
         "title": "Unox Gelderse rookworst",
@@ -1996,6 +1992,10 @@
         "price": "1.29"
     },
     {
+        "title": "AH Olijfolie traditioneel",
+        "price": "7.39"
+    },
+    {
         "title": "Heinz Tomato Frito",
         "price": "1.25"
     },
@@ -2004,16 +2004,12 @@
         "price": "1.99"
     },
     {
-        "title": "AH Olijfolie traditioneel",
-        "price": "7.39"
+        "title": "AH Zilvervliesrijst",
+        "price": "1.29"
     },
     {
         "title": "Conimex Cassave kroepoek",
         "price": "1.69"
-    },
-    {
-        "title": "AH Zilvervliesrijst",
-        "price": "1.29"
     },
     {
         "title": "AH Tomatenpuree",
@@ -2076,12 +2072,12 @@
         "price": "1.09"
     },
     {
-        "title": "AH Rode peper",
-        "price": "0.44"
-    },
-    {
         "title": "Unox Knaks",
         "price": "2.59"
+    },
+    {
+        "title": "AH Rode peper",
+        "price": "0.44"
     },
     {
         "title": "AH Augurken zoetzuur",
@@ -2140,27 +2136,19 @@
         "price": "1.49"
     },
     {
-        "title": "AH Appelmoes",
-        "price": "0.89"
-    },
-    {
         "title": "AH Munt grootverpakking",
         "price": "1.39"
+    },
+    {
+        "title": "AH Appelmoes",
+        "price": "0.89"
     },
     {
         "title": "Van Wijngaarden's Zaanse mayonaise",
         "price": "3.79"
     },
     {
-        "title": "Heinz Tomato Frito",
-        "price": "1.25"
-    },
-    {
         "title": "AH Koriander",
-        "price": "1.09"
-    },
-    {
-        "title": "AH Biologisch Knoflook",
         "price": "1.09"
     },
     {
@@ -2168,16 +2156,24 @@
         "price": "7.39"
     },
     {
+        "title": "Heinz Tomato Frito",
+        "price": "1.25"
+    },
+    {
+        "title": "AH Biologisch Knoflook",
+        "price": "1.09"
+    },
+    {
         "title": "AH Tomatenpuree",
         "price": "0.69"
     },
     {
-        "title": "AH Pastasaus classic",
-        "price": "1.35"
-    },
-    {
         "title": "Unox Runder knaks",
         "price": "2.49"
+    },
+    {
+        "title": "AH Pastasaus classic",
+        "price": "1.35"
     },
     {
         "title": "Wijko Satesaus kant & klaar",
@@ -2200,12 +2196,12 @@
         "price": "0.79"
     },
     {
-        "title": "AH Maiskorrels fris en knapperig",
+        "title": "AH Bieslook",
         "price": "1.19"
     },
     {
-        "title": "Maggi Jus stamppot juspoeder",
-        "price": "0.69"
+        "title": "AH Maiskorrels fris en knapperig",
+        "price": "1.19"
     },
     {
         "title": "Melkunie Protein chocolade pudding",
@@ -2252,12 +2248,12 @@
         "price": "2.29"
     },
     {
-        "title": "Melkunie Protein aardbei framboos shake",
-        "price": "1.59"
-    },
-    {
         "title": "AA Drink High energy",
         "price": "0.99"
+    },
+    {
+        "title": "Melkunie Protein aardbei framboos shake",
+        "price": "1.59"
     },
     {
         "title": "AA Drink High energy",
@@ -2296,12 +2292,12 @@
         "price": "2.29"
     },
     {
-        "title": "Nature Valley Protein salted caramel & pinda repen",
-        "price": "4.25"
-    },
-    {
         "title": "Liga Proteine reep cranberry",
         "price": "2.99"
+    },
+    {
+        "title": "Nature Valley Protein salted caramel & pinda repen",
+        "price": "4.25"
     },
     {
         "title": "HiPRO Protein skyr stijl bosbes",
@@ -2336,20 +2332,20 @@
         "price": "2.65"
     },
     {
-        "title": "Graze Bites honey cinnamon",
-        "price": "3.39"
-    },
-    {
-        "title": "HiPRO Protein kwark bosvruchten",
-        "price": "1.99"
-    },
-    {
         "title": "HiPRO Protein kwark banaan",
         "price": "1.99"
     },
     {
         "title": "AA Drink Iso lemon",
         "price": "1.19"
+    },
+    {
+        "title": "HiPRO Protein kwark bosvruchten",
+        "price": "1.99"
+    },
+    {
+        "title": "Graze Bites honey cinnamon",
+        "price": "3.39"
     },
     {
         "title": "Active O2 Appel-kiwi",
@@ -2368,15 +2364,15 @@
         "price": "0.77"
     },
     {
-        "title": "LambWeston Grill fries",
-        "price": "2.99"
+        "title": "LambWeston Ziggy fries natural",
+        "price": "2.89"
     },
     {
         "title": "Iglo Spinazie \u00e0 la cr\u00e8me",
         "price": "1.99"
     },
     {
-        "title": "LambWeston Supreme twisters",
+        "title": "LambWeston Grill fries",
         "price": "2.99"
     },
     {
@@ -2384,8 +2380,8 @@
         "price": "0.99"
     },
     {
-        "title": "LambWeston Ziggy fries natural",
-        "price": "2.89"
+        "title": "LambWeston Supreme twisters",
+        "price": "2.99"
     },
     {
         "title": "Dr. Oetker Ristorante pizza salami",
@@ -2416,12 +2412,12 @@
         "price": "2.59"
     },
     {
-        "title": "AH Franse friet",
-        "price": "1.49"
-    },
-    {
         "title": "AH Spinazie",
         "price": "1.09"
+    },
+    {
+        "title": "AH Franse friet",
+        "price": "1.49"
     },
     {
         "title": "AH Zakje met blauwe bessen",
@@ -2440,10 +2436,6 @@
         "price": "1.25"
     },
     {
-        "title": "AH Aardappelkroketjes",
-        "price": "1.19"
-    },
-    {
         "title": "AH Zalmfilet",
         "price": "5.99"
     },
@@ -2456,36 +2448,40 @@
         "price": "5.29"
     },
     {
-        "title": "AH Aardappelschijfjes",
-        "price": "1.89"
-    },
-    {
-        "title": "Aviko SuperCrunch oven pommes frites",
-        "price": "2.59"
+        "title": "AH Aardappelkroketjes",
+        "price": "1.19"
     },
     {
         "title": "D\u00e9lifrance Roomboter croissants",
         "price": "2.79"
     },
     {
-        "title": "AH Biologisch Tuinerwten",
-        "price": "1.99"
+        "title": "Aviko SuperCrunch oven pommes frites",
+        "price": "2.59"
     },
     {
-        "title": "AH Broccoliroosjes",
-        "price": "2.35"
+        "title": "AH Biologisch Tuinerwten",
+        "price": "1.99"
     },
     {
         "title": "Iglo Spinazie \u00e0 la cr\u00e8me",
         "price": "1.49"
     },
     {
-        "title": "AH Lekkerbekjes",
-        "price": "2.99"
+        "title": "AH Aardappelschijfjes",
+        "price": "1.89"
+    },
+    {
+        "title": "AH Broccoliroosjes",
+        "price": "2.35"
     },
     {
         "title": "AH Airfryer ovenfriet",
         "price": "1.99"
+    },
+    {
+        "title": "AH Lekkerbekjes",
+        "price": "2.99"
     },
     {
         "title": "Aviko Airfryer dunne friet",
@@ -2496,12 +2492,12 @@
         "price": "1.85"
     },
     {
-        "title": "Dr. Oetker Ristorante pizza mozzarella",
-        "price": "2.59"
-    },
-    {
         "title": "AH Krokante friet",
         "price": "3.75"
+    },
+    {
+        "title": "Dr. Oetker Ristorante pizza mozzarella",
+        "price": "2.59"
     },
     {
         "title": "AH Zakje met mango stukjes",
@@ -2528,7 +2524,7 @@
         "price": "1.25"
     },
     {
-        "title": "Andr\u00e9lon Droogshampoo verrassend volume",
+        "title": "Andr\u00e9lon Droogshampoo langer fris",
         "price": "6.99"
     },
     {
@@ -2580,12 +2576,12 @@
         "price": "3.69"
     },
     {
-        "title": "Colgate Caries protection tandpasta",
-        "price": "2.19"
-    },
-    {
         "title": "Unicura Balans anti bacterieel handzeep",
         "price": "2.99"
+    },
+    {
+        "title": "Colgate Caries protection tandpasta",
+        "price": "2.19"
     },
     {
         "title": "Care Almond handzeep navulverpakking",
@@ -2608,32 +2604,28 @@
         "price": "1.59"
     },
     {
-        "title": "Demak'up Expert ronde wattenschijfjes",
-        "price": "2.59"
-    },
-    {
         "title": "Aquafresh Intense white tandpasta",
         "price": "3.65"
+    },
+    {
+        "title": "Demak'up Expert ronde wattenschijfjes",
+        "price": "2.59"
     },
     {
         "title": "Sensodyne Fresh mint tandpasta",
         "price": "5.79"
     },
     {
-        "title": "Andr\u00e9lon Classic shampoo iedere dag",
-        "price": "3.99"
-    },
-    {
         "title": "AH Tissues extra zacht & sterk 4 lagen",
         "price": "1.89"
     },
     {
-        "title": "Elmex Anti-cari\u00ebs tandpasta",
-        "price": "4.29"
+        "title": "Andr\u00e9lon Classic shampoo iedere dag",
+        "price": "3.99"
     },
     {
-        "title": "Parodontax Original tandpasta",
-        "price": "5.79"
+        "title": "Elmex Anti-cari\u00ebs tandpasta",
+        "price": "4.29"
     },
     {
         "title": "Colgate Triple action xtra fresh tandpasta",
@@ -2644,12 +2636,16 @@
         "price": "4.69"
     },
     {
-        "title": "Prodent Woezel & pip tandpasa 0-6 jaar",
-        "price": "2.99"
+        "title": "Parodontax Original tandpasta",
+        "price": "5.79"
     },
     {
         "title": "Elmex Sensitive tandpasta",
         "price": "5.19"
+    },
+    {
+        "title": "Prodent Woezel & pip tandpasa 0-6 jaar",
+        "price": "2.99"
     },
     {
         "title": "Nivea Sun kids protect & hydrate spf50+ spray",
@@ -2740,12 +2736,12 @@
         "price": "3.69"
     },
     {
-        "title": "AH Beregoede luiers junior maat 5",
-        "price": "6.69"
-    },
-    {
         "title": "Liga Kinder biscuits vanaf 12-36 mnd",
         "price": "1.99"
+    },
+    {
+        "title": "AH Beregoede luiers junior maat 5",
+        "price": "6.69"
     },
     {
         "title": "Nutrilon 1 volledige zuigelingenvoeding 0-6 mnd",
@@ -2776,20 +2772,16 @@
         "price": "1.99"
     },
     {
-        "title": "AH Biologisch Knijpfruit appel wortel 6+ mnd",
-        "price": "0.89"
-    },
-    {
-        "title": "AH Biologisch Knijpfruit appel banaan aardbei 6+ mnd",
-        "price": "0.89"
+        "title": "Ella's Kitchen Maize sticks wortels + ma\u00efs 7+ bio",
+        "price": "1.89"
     },
     {
         "title": "Ella's Kitchen Bananen + kokos 4+ bio",
         "price": "1.95"
     },
     {
-        "title": "Ella's Kitchen Maize sticks wortels + ma\u00efs 7+ bio",
-        "price": "1.89"
+        "title": "AH Biologisch Knijpfruit appel wortel 6+ mnd",
+        "price": "0.89"
     },
     {
         "title": "Ella's Kitchen Zoete aardappel, pompoen + bosbes 4+ bio",
@@ -2800,16 +2792,20 @@
         "price": "3.96"
     },
     {
-        "title": "AH Biologisch Spaghetti bolognese 15m08",
-        "price": "1.39"
-    },
-    {
         "title": "Organix Knijpfruit appel aardbei quinoa 12+m",
         "price": "1.25"
     },
     {
-        "title": "AH Beregoede luiers 6 15+ kilo",
-        "price": "7.19"
+        "title": "AH Biologisch Spaghetti bolognese 15m08",
+        "price": "1.39"
+    },
+    {
+        "title": "Olvarit 18+ mnd spaghetti tomaat ham",
+        "price": "1.59"
+    },
+    {
+        "title": "AH Biologisch Knijpfruit appel banaan aardbei 6+ mnd",
+        "price": "0.89"
     },
     {
         "title": "Olvarit Knijpfruit 6+ mnd appel banaan",
@@ -2836,16 +2832,16 @@
         "price": "3.19"
     },
     {
-        "title": "Dettol Allesreiniger spray katoenfris",
-        "price": "3.39"
+        "title": "Finish Ultimate all in 1 vaatwastabletten",
+        "price": "8.69"
     },
     {
         "title": "AH Extra zacht en extra sterk toiletpapier",
         "price": "8.79"
     },
     {
-        "title": "Dettol Allesreiniger spray citrus",
-        "price": "3.49"
+        "title": "Dettol Allesreiniger spray katoenfris",
+        "price": "3.39"
     },
     {
         "title": "AH Zacht & sterk toiletpapier 3-laags",
@@ -2876,20 +2872,16 @@
         "price": "2.59"
     },
     {
-        "title": "Komo Huisvuilzakken 60 l",
-        "price": "1.89"
-    },
-    {
         "title": "AH Tissues 2 lagen",
         "price": "1.39"
     },
     {
-        "title": "AH Bakpapier",
-        "price": "1.25"
+        "title": "Komo Huisvuilzakken 60 l",
+        "price": "1.89"
     },
     {
-        "title": "AH Tissues zacht & sterk",
-        "price": "1.69"
+        "title": "AH Bakpapier",
+        "price": "1.25"
     },
     {
         "title": "AH Eco Toiletpapier sterk",
@@ -2902,6 +2894,10 @@
     {
         "title": "AH Toiletpapier extra zacht & sterk",
         "price": "4.95"
+    },
+    {
+        "title": "AH Tissues zacht & sterk",
+        "price": "1.69"
     },
     {
         "title": "AH Boterhamzakjes",
@@ -2920,10 +2916,6 @@
         "price": "2.49"
     },
     {
-        "title": "AH Schoonmaakazijn",
-        "price": "0.69"
-    },
-    {
         "title": "AH Pedaalemmerzakken 25 liter",
         "price": "1.29"
     },
@@ -2934,6 +2926,10 @@
     {
         "title": "AH Krachtige all-in 1 vaatwastabletten",
         "price": "3.59"
+    },
+    {
+        "title": "AH Schoonmaakazijn",
+        "price": "0.69"
     },
     {
         "title": "AH Toiletpapier 2-laags grootverpakking",
@@ -2972,32 +2968,32 @@
         "price": "1.09"
     },
     {
-        "title": "Page Aloe vera vochtig toiletpapier",
-        "price": "2.09"
+        "title": "AH Eco Pedaalemmerzakken 20 liter",
+        "price": "2.69"
     },
     {
         "title": "AH Schep en schoon 4 voudige hygiene",
         "price": "5.99"
     },
     {
-        "title": "Felix Elke dag feest countryside selec gel",
-        "price": "5.69"
+        "title": "Bonzo Vitafit volwassen hond rund kip",
+        "price": "3.79"
     },
     {
         "title": "AH Schep & schoon fijn",
         "price": "3.79"
     },
     {
-        "title": "Beneful Kleine genieter hondenbrokken met rund",
-        "price": "5.49"
+        "title": "Beneful Gezond gewicht kip",
+        "price": "4.69"
     },
     {
         "title": "AH Alu pate zalm",
         "price": "0.29"
     },
     {
-        "title": "Bonzo Vitafit volwassen hond rund kip",
-        "price": "3.79"
+        "title": "Beneful Gelukkig volwassen 7+ kip",
+        "price": "5.49"
     },
     {
         "title": "Gourmet Gold mousse zalm kattenvoer nat",
@@ -3044,12 +3040,12 @@
         "price": "0.79"
     },
     {
-        "title": "AH Pat\u00e9 met rund en kip",
-        "price": "0.45"
-    },
-    {
         "title": "Catsan Hygiene plus kattenbakkorrels",
         "price": "7.49"
+    },
+    {
+        "title": "AH Pat\u00e9 met rund en kip",
+        "price": "0.45"
     },
     {
         "title": "AH Alu pate gevogelte",
@@ -3100,16 +3096,16 @@
         "price": "0.45"
     },
     {
-        "title": "Smuldier Pens vlees compleet",
-        "price": "1.69"
-    },
-    {
         "title": "Pets Unlimited Chewy sticks with chicken",
         "price": "3.49"
     },
     {
         "title": "Sheba Filets kip met duurzame tonijn",
         "price": "1.49"
+    },
+    {
+        "title": "Smuldier Pens vlees compleet",
+        "price": "1.69"
     },
     {
         "title": "AH Kattenmelk met omega-3",
@@ -3124,12 +3120,12 @@
         "price": "2.49"
     },
     {
-        "title": "Gourmet Gold duo vlees in tomatensaus",
-        "price": "0.79"
-    },
-    {
         "title": "AH Pak maaltijdzak vlees saus",
         "price": "1.75"
+    },
+    {
+        "title": "Gourmet Gold duo vlees in tomatensaus",
+        "price": "0.79"
     },
     {
         "title": "AH Boterhamzakjes",
@@ -3164,12 +3160,12 @@
         "price": "1.99"
     },
     {
-        "title": "AH Kartonnen beker wit",
-        "price": "1.65"
-    },
-    {
         "title": "AH Diepvrieszakjes met zipsluiting groot",
         "price": "2.19"
+    },
+    {
+        "title": "AH Kartonnen beker wit",
+        "price": "1.65"
     },
     {
         "title": "AH Servet wit 1 laags",
@@ -3224,12 +3220,12 @@
         "price": "1.79"
     },
     {
-        "title": "Canon Printpapier",
-        "price": "5.99"
-    },
-    {
         "title": "AH Cocktailprikkers 200 stuks",
         "price": "1.29"
+    },
+    {
+        "title": "Canon Printpapier",
+        "price": "5.99"
     },
     {
         "title": "AH Gebaksbord 15 cm",
@@ -3240,11 +3236,11 @@
         "price": "4.99"
     },
     {
-        "title": "AH Servetten wit 3-laags",
+        "title": "AH Aanmaakblokjes zak",
         "price": "1.29"
     },
     {
-        "title": "AH Aanmaakblokjes zak",
+        "title": "AH Servetten wit 3-laags",
         "price": "1.29"
     },
     {
@@ -3252,24 +3248,24 @@
         "price": "1.19"
     },
     {
-        "title": "Toppits Zipper multi-functionele zakken 1liter",
-        "price": "3.25"
-    },
-    {
-        "title": "Varta Longlife power AAA alkaline batterijen",
-        "price": "4.99"
+        "title": "Duracell Plus AA alkaline batterijen",
+        "price": "7.09"
     },
     {
         "title": "AH Servet donkerblauw",
         "price": "1.69"
     },
     {
+        "title": "Toppits Zipper multi-functionele zakken 1liter",
+        "price": "3.25"
+    },
+    {
         "title": "AH Handschoenen latexvrij one size",
         "price": "2.49"
     },
     {
-        "title": "Duracell Plus AA alkaline batterijen",
-        "price": "7.09"
+        "title": "Varta Longlife power AAA alkaline batterijen",
+        "price": "4.99"
     },
     {
         "title": "AH Huishoudhandschoenen maat L",
