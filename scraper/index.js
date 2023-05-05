@@ -1,6 +1,5 @@
-// Based on https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/
-
 import puppeteer from "puppeteer";
+
 
 const getQuotes = async () => {
   // Start a Puppeteer session with:
@@ -34,9 +33,6 @@ const getQuotes = async () => {
     // Fetch the first element with class "quote"
     // Get the displayed text and returns it
     const sections = document.querySelectorAll("section > div");
-
-    // Convert the quoteList to an iterable array
-    // For each quote fetch the text and author
     return Array.from(sections).map((section) => {
       try {
         const href = section.querySelector("a").getAttribute("href");
@@ -49,35 +45,72 @@ const getQuotes = async () => {
       }
     });
   });
-  console.log(specialOfferPages);
 
-    
-  // const text = await page.evaluate(() => document.querySelector("section").textContent);
-  // console.log(text);
+  let counter = 0;
+  let blocked = false;
+  specialOfferPages.forEach(async specialOfferPage => {
+    if (!specialOfferPage) return;
+    if (specialOfferPage.includes('/FREE')) return;
+    while (blocked) {
+      // Wait 1 second
+      await new Promise(resolve => setTimeout(resolve, 1000));
+    }
+    counter++;
+    console.log(counter + ". " + specialOfferPage);
+    blocked = true;
+    // if (counter > 1) {
+    //   blocked = false;
+    //   return;
+    // }
 
-  // const result = await page.evaluate(() => {
-  //   const sections = document.querySelector("section");
-  //   return sections;
-  // });
-  // console.log("result: ");
-  // console.log(result);
+    const sop = await browser.newPage();
+    await sop.goto(specialOfferPage, {
+      waitUntil: 'networkidle0',
+    });
 
-  // // Convert the quoteList to an iterable array
-  // // For each quote fetch the text and author
-  // return Array.from(quoteList).map((quote) => {
-  //   // Fetch the sub-elements from the previously fetched quote element
-  //   // Get the displayed text and return it (`.innerText`)
-  //   const text = quote.querySelector(".text").innerText;
-  //   const author = quote.querySelector(".author").innerText;
+    // Force all articles to have data instead of placeholders
+    // First scroll all the way down the page
+    // Then scroll up in small steps to the top
+    await sop.evaluate(() => document.querySelector('#footer').scrollIntoView());
+    await sop.evaluate(async () => { 
+      let done = false;
+      while (!done) {
+        window.scrollBy(0, -100, "smooth");
+        await new Promise(function(resolve) { 
+          setTimeout(resolve, 1)
+        });
+        if (window.scrollY == 0) done = true;
+      }
+    });
+    console.log("Number of articles: " + (await sop.$$('article')).length);
 
-  //   return { text, author };
-  // });
+    // Find urls with pages that contain special offers
+    const specialOffers = await sop.evaluate(() => {
+      let result = [];
+      const articles = document.querySelectorAll("article > div > a");
+      return Array.from(articles).map((article) => {
+        try {
+          const title = article.getAttribute("title");
+          const href = article.getAttribute("href");
+          return [title, href];
+        }
+        catch (e) {
+          return false;
+        }
+      });
 
+      return result;
+    });
+    console.log(specialOffers);
 
+    blocked = false;
+  });
 
   // Close the browser
-  await browser.close();
+  // await browser.close();
 };
 
 // Start the scraping
 getQuotes();
+
+
